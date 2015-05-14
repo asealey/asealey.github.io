@@ -1,0 +1,46 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
+exclude: [vendor]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '@asealey'
+tagline:          'Security, Analytics, Data, and other tidbits'
+description:      'Security guy, data nerd, fixer of things, father of 3, Director of Security Analytic things @ Nike'
+url:              http://asealey.github.io/
+baseurl:          /
+
+author:
+  name:           'Adam Sealey'
+  url:            'https://twitter.com/adamsealey'
+  email:          'asealey@gmail.com'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  main:           https://github.com/asealey/
+  repo_url:       https://github.com/asealey/asealey.github.io/
+
+twitter:
+  main:           https://www.twitter.com/adamsealey
+
+linkedin:
+  main:           http://www.linkedin.com/in/adamsealey
+
+pgp:
+  main:           https://keybase.io/asealey
+
+rss:
+  main:          http://asealey.github.io/atom.xml
+
+gems:
+- jemoji
+- jekyll-sitemap
