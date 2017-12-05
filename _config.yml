@@ -41,6 +41,8 @@ pgp:
 rss:
   main:          http://asealey.github.io/atom.xml
 
-gems:
+plugins:
 - jemoji
 - jekyll-sitemap
+
+encoding: utf-8
