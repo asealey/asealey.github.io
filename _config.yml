@@ -25,9 +25,9 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  main:           https://github.com/asealey/
-  repo_url:       https://github.com/asealey/asealey.github.io/
+github: [metadata]
+  # main:           https://github.com/asealey/
+  # repo_url:       https://github.com/asealey/asealey.github.io/
 
 twitter:
   main:           https://www.twitter.com/adamsealey
@@ -47,6 +47,6 @@ plugins:
 
 encoding: utf-8
 
-google_analytics: 
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-midnight
