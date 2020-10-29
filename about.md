@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->
 
-![Adam](/public/adam.jpg)
+![Adam](/public/Adam Headshot 2018 (Tight_260x320).jpg)
 
 ## Bio
 I'm Adam, and I've done some security things, in higher-ed, government, public, and
