@@ -3,6 +3,9 @@ _gh_pages
 _site
 .ruby-version
 
+# Local Claude Code settings (symlinked to personal shared config)
+.claude/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
